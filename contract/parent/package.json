@@ -1,0 +1,17 @@
+{
+  "name": "php",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "node ./deploy.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "arweave": "^1.10.18",
+    "dotenv": "^10.0.0",
+    "smartweave": "^0.4.46"
+  }
+}
